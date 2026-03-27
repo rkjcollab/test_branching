@@ -1,1 +1,2 @@
 Add a second sentence.
+This is a second sentence.

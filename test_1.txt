@@ -1,2 +1,3 @@
 Change one or two ENTRIES in.
 
+Add second sentence to test fetch & merge remote main without committing unstaged changes.
